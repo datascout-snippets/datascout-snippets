@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash Patra</h1>
-<h3 align="center">Engineer by degree, Perfectionist by attitude</h3>
+<h3 align="center">Engineer by degree, Perfectionist by Passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan3168&label=Profile%20views&color=0e75b6&style=flat" alt="gyan3168" /> </p>
 
