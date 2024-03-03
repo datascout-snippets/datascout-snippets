@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash Patra</h1>
-<h3 align="center">Engineer by degree, Perfectionist by Passion</h3>
+<h3 align="center">Engineer by degree, Perfectionist by attitude</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan3168&label=Profile%20views&color=0e75b6&style=flat" alt="gyan3168" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics/ML and Blockchain Projects**
+- 👨‍💻 All of my projects are available at [https://linktr.ee/gptank08](https://linktr.ee/gptank08)
 
-- 🌱 I’m currently learning **ML/BI Tools with their use cases in Blockchain**
-
-- 💬 Ask me about **Python, ML, Statistics, Blockchain**
-
-- 📫 How to reach me **patra.gyanprakash@gmail.com**
+- ⚡ Fun fact **I know a lot of things about a lot of things...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyan3168&show_icons=true&locale=en&layout=compact" alt="gyan3168" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyan3168&show_icons=true&locale=en" alt="gyan3168" /></p>
-
