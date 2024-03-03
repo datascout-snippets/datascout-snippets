@@ -8,6 +8,39 @@
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Sci-kit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+ <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+
+
+
 # 📊 GitHub Stats:
 ![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyan3168&show_icons=true&theme=dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gyan3168&theme=dark&hide_border=false)<br/>
