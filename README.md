@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Data Analytics/ML related project and Learning Blockchain to fastrack its devolment.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭 **I’m currently working on:**  <br>Data Analytics/ML related project and Learning Blockchain to fastrack its devolment.<br><br>👯 **I’m looking to collaborate on:**  <br>Data Modelling and Blockchain Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced DSA with ML combined with Data Analytics and Blockchain related services <br><br>💬 **Ask me about:**  <br>Python, SQL, Tensorflow, Pandas, Pytorch, and any general ML related data visualization questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
