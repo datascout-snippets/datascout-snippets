@@ -10,8 +10,8 @@
 
 # 📊 GitHub Stats:
 ![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyan3168&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan3168&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gyan3168&theme=dark&hide_border=false)<br/>
+![Snake animation](https://github.com/Gyan3168/Gyan3168/blob/output/github-contribution-grid-snake.svg)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan3168&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
