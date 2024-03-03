@@ -9,35 +9,16 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Sci-kit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
  # 🐍 My Contributions:
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gyan3168/Gyan3168/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
+  <br><img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gyan3168/Gyan3168/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/></div><hr/>
 
 # 📊 GitHub Stats:
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gyan3168&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Gyan3168&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Gyan3168&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
-<br/>
-
-
-# 📊 GitHub Stats:
-![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyan3168&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gyan3168&theme=dark&hide_border=false)<br/>
-![Snake animation](https://github.com/Gyan3168/Gyan3168/blob/output/github-contribution-grid-snake.svg)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan3168&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyan3168&show_icons=true&theme=dark&border_radius=10)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gyan3168&theme=dark&hide_border=false&border_radius=10)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyan3168&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&border_radius=10)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gyan3168&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Gyan3168&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&border_radius=10)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gyan3168&icon=0&color=0)](https://visitcount.itsvg.in)
