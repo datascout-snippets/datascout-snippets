@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Data Analytics/ML related project and Learning Blockchain to fastrack its devolment.<br><br>👯 **I’m looking to collaborate on:**  <br>Data Modelling and Blockchain Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced DSA with ML combined with Data Analytics and Blockchain related services <br><br>💬 **Ask me about:**  <br>Python, SQL, Tensorflow, Pandas, Pytorch, and any general ML related data visualization questions.<br><br>⚡ **Fun fact:**  <br> <br>
+🔭 **I’m currently working on:**  <br>Data Analytics/ML related project and Learning Blockchain to fastrack its devolment.<br><br>👯 **I’m looking to collaborate on:**  <br>Data Modelling and Blockchain Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced DSA with ML combined with Data Analytics and Blockchain related services <br><br>💬 **Ask me about:**  <br>Python, Power BI, Tensorflow, Pandas, Pytorch, and any other ML related data analytics questions.<br><br>⚡ **Fun fact:**  <br> <br>
 <img allign=right src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450">
 <br>
 I love creating content.
