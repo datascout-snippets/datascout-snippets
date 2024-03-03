@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan3168&label=Profile%20views&color=0e75b6&style=flat" alt="gyan3168" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/gyan3168" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gyan3168?logo=twitter&style=for-the-badge" alt="https://twitter.com/gyan3168" /></a> </p>
-
 - 🔭 I’m currently working on **Data Analytics/ML and Blockchain Projects**
 
 - 🌱 I’m currently learning **ML/BI Tools with their use cases in Blockchain**
