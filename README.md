@@ -2,7 +2,7 @@
 🔭 **I’m currently working on:**  <br>Data Analytics/ML related project and Learning Blockchain to fastrack its devolment.<br><br>👯 **I’m looking to collaborate on:**  <br>Data Modelling and Blockchain Projects<br><br>🌱 **I’m currently learning:**  <br>Advanced DSA with ML combined with Data Analytics and Blockchain related services <br><br>💬 **Ask me about:**  <br>Python, Power BI, Tensorflow, Pandas, Pytorch, and any other ML related data analytics questions.<br><br>⚡ **Fun fact:**  <br>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="450" border_radius=10 >
 <br>
-I love creating content.
+I love food.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Gyan3168) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/partime_artisan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gyan-prakash-patra-037671141) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13952209) 
